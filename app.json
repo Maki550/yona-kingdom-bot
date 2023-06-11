@@ -1,10 +1,10 @@
 {
-  "name": "GataBotLite-MD", 
-  "description": "Bot ligero para WhatsApp",
-  "repository": "https://github.com/GataNina-Li/GataBotLite-MD",
+  "الاسم" : "𝑌𝑂𝑁𝐴「 ❄ 」𝐵𝑂𝑇"  ،
+  "الوصف" : "Bot ligero para WhatsApp"  ،
+  "المستودع" : "https://github.com/GataNina-Li/GataBotLite-MD" ،
   "logo": "https://i.imgur.com/AwlL9kc.jpg",
-  "keywords": ["java", "bot", "whatsapp-bot", "whatsapp-automation"],
-  "buildpacks": [
+  "الكلمات الرئيسية" : [ "java"  ،  "bot"  ،  "whatsapp-bot"  ،  "whatsapp-automation" ] ،
+  "حزم بناء" : [
     {
       "url": "heroku/nodejs"
     },
