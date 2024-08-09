@@ -11,7 +11,7 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰   
 
 global.owner = [
-[ '+963 953 365 082' ، '𝑀𝐴𝐾𝐼 🍷' ، صحيح ]،
+[ '+20 50 3577324' ، '𝑀𝐴𝐾𝐼 🍷' ، صحيح ]،
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -94,10 +94,10 @@ global.author = '𝑌𝑂𝑁𝐴.'
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-['+963 953 365 082', '𝑦𝑜𝑛𝑎 𝑛𝑜𝑡 💻', 1], 
-['+963 953 365 082', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-['+963 953 365 082', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
-['+963 953 365 082', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
+['+20 50 3577324', '𝐦𝐚𝐤𝐢 𝐁𝐎𝐓 🍷', 1], 
+['+20 50 3577324', '𝐌𝐀𝐊𝐈 🍷', 1],  
+['+20 50 3577324', '𝐦𝐚𝐤𝐢🍷', 1],
+['+20 50 3577324', '𝐯𝐢𝐨𝐥𝐚 🍷', 1]] 
 
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
@@ -107,33 +107,33 @@ global.country = '' //agrega tú país ejemplo: 🇪🇨
 global.vs = '1.0.2'
 global.vsJB = '3.0'
 
-global.gt = '𝑌𝑂𝑁𝐴「❄」𝐵𝑂𝑇'
+global.gt = '𝐦𝐚𝐤𝐢⪼'
 global.yt = 'https://youtube.com/@gatadios'
 global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
 global.ig = 'https://www.instagram.com/gata_dios'
 global.md = 'https://github.com/GataNina-Li/GataBotLite-MD'
 global.fb = 'https://www.facebook.com/groups/872989990425789/'
 
-global.nna = 'https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3' //UPDATE GATABOT
-global.nna2 = 'https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76' //Help
-global.nn = 'https://chat.whatsapp.com/Kt5EXwUhcO8Ay76CIDLs7d' //Grupo 1
+global.nna = 'https://chat.whatsapp.com/JGO0SpVO5LXHnV7eGHHpc4' //UPDATE GATABOT
+global.nna2 = 'https://chat.whatsapp.com/JDimLovk6tA4BgzjEX1V9t' //Help
+global.nn = 'https://chat.whatsapp.com/HY2E57JnvkL9eCqkOAnEq6' //Grupo 1
 global.nnn = 'https://chat.whatsapp.com/Kt5EXwUhcO8Ay76CIDLs7d' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/K0UCo7igED92q9c1w2DiEH' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/HJLpWS2BDrWCPH6uAUKIRG' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/F63pQpKCsWiF2zFXxhYnky' //Grupo 5 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/CcJKHrxGBWAAH3PiBL07JS' //Grupo 6 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/KLpYFsitkgzJ15YQxZrBqO' //Grupo 7 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/J8HOf2T3QYeKu3UN9UBkT6' //Grupo 8 COL
+global.nnnt = 'https://chat.whatsapp.com/BJof3re9oYjFxbeJ7MCXLy' //Grupo 3
+global.nnntt = 'https://chat.whatsapp.com/HY2E57JnvkL9eCqkOAnEq6' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/EPJsxmoQPtAGnyhOgenoQ9' //Grupo 5 COL
+global.nnnttt2 = 'https://chat.whatsapp.com/EPJsxmoQPtAGnyhOgenoQ9' //Grupo 6 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/EPJsxmoQPtAGnyhOgenoQ9' //Grupo 7 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/EPJsxmoQPtAGnyhOgenoQ9' //Grupo 8 COL
 global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/19393844141' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/20503577324' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝑌𝑂𝑁𝐴「❄」𝐵𝑂𝑇 : 𝙔𝙊𝙉𝘼'
-global.igfg = '𝑌𝑂𝑁𝐴「❄」𝐵𝑂𝑇'
+global.wm = '𝐯𝐢𝐨𝐥𝐚 🍷'
+global.igfg = '𝐦𝐚𝐤>'
 global.wait = lenguajeGB['smsMeWait']()
 global.wait2 = lenguajeGB.smsWait()
 global.nomorown = owner[0][0]
@@ -201,7 +201,7 @@ global.gataImg = [imagen1, imagen2, imagen3, imagen4, imagen5, imagen6, imagen7,
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.htki = '*....「」....*'
-global.htka = '*......❄*'
+global.htka = '*......🍷*'
 global.htjava = '⫹⫺'
 
 global.multiplier = 60 // Cuanto más alto, más difícil subir de nivel 
